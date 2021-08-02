@@ -4,10 +4,15 @@
 // @description  Adds a copyable link to issue details, for pasting into messages etc.
 // @copyright    2021, floodmeadows (https://openuserjs.org/users/floodmeadows)
 // @license      MIT
-// @version      0.1.0
+// @version      0.1.1
 // @include      https://jira.*.uk/browse/*
 // @grant        none
 // ==/UserScript==
+
+
+// ==OpenUserJS==
+// @author       floodmeadows
+// ==/OpenUserJS==
 
 (function() {
   'use strict';
